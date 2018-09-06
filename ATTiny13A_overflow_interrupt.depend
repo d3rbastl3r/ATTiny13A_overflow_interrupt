@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1536259164 source:/home/d3rbastl3r/workspace/codeblocks/ATTiny13A_overflow_interrupt/main.cpp
+	<avr/io.h>
+	<avr/interrupt.h>
+
